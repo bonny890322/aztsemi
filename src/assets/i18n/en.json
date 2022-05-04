@@ -1,0 +1,29 @@
+{
+  "company": {
+"profile":{
+"name": "Jiangxi Avanzato Semiconductor Co. Ltd.",
+"intro":"Jiangxi Avanzato Semiconductor Co. Ltd. incorporated on November 2020, located in Yingtan (Guixi)Copper Circular Economy Industrial Park. Core business are advanced semiconductor design, production,packaging and testing. Product line consist of various industry such as Mid/High end electronic device,automotive, aviation and medical .Our client from American, Europe, Asia, Japan and other.After years of research and development, our technical team mastered the process of AdvancedSemiconductor Assembly and Test. Mass production had been start. The Advanced SemiconductorAssembly and Test process able to bring the company to next horizon. "
+},
+"productServices":{
+  "0":"MEMS Sensor",
+  "1":"Single Point Thermopile",
+  "2":"Thermopile array",
+  "3":"Microbolometer",
+  "4":"Medical-grade thermal imaging system",
+  "5":"NDIR(Non-Dispersive Infrared) Gas Sensor",
+  "6":"Automobile night vision system",
+  "7":"Camera Module",
+  "8":"Fingerprint Module",
+  "9":"Wafer Level Vacuum Packaging",
+  "10":"Low Temperature Vacuum Packaging"
+},
+"application":{
+  "0":"Microbolometer (VOx)",
+  "1":"Short-wave infrared Sensor (InGaAs)",
+  "2":"Wafer Level Vacuum Packaging",
+  "3":"Low Temperature Vacuum Packaging",
+  "4":"NDIR(Non-Dispersive Infrared) Gas Sensor"
+}
+  }
+
+}

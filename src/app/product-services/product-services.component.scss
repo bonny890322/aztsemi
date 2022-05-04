@@ -1,0 +1,33 @@
+
+
+.bl-panel-items > div {
+  width: 50%;
+  margin: 0 auto;
+  opacity: 1;
+  bottom: 90px;
+  top: 90px;
+  pointer-events: auto;
+}
+
+.bl-panel-items  > div img {
+  float: left;
+  margin: 0 20px 20px 0;
+  max-width: 100%;
+}
+
+.bl-panel-items  > div h3 {
+  font-size: 1.8em;
+  font-weight: 300;
+  margin: 0 0 20px 0;
+  color: #69bb7e;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+

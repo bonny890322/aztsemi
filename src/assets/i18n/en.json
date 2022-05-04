@@ -10,12 +10,35 @@
   "2":"Thermopile array",
   "3":"Microbolometer",
   "4":"Medical-grade thermal imaging system",
-  "5":"NDIR(Non-Dispersive Infrared) Gas Sensor",
+  "5":{
+    "name":"NDIR(Non-Dispersive Infrared) Gas Sensor",
+    "intro":{
+      "0":"When infrared radiation interacts with gas molecules, infrared light is absorbed by the gas molecules at a particular wavelength, causing vibration of the gas molecules. NDIR (Non-Dispersive Infrared) gas sensors detect decrease in transmitted infrared light which is in proportion to gas concentration. This transmittance, the ratio of transmitted radiation energy to the incident energy, is dependent on target gas concentration.",
+      "1":"Absorption of infrared light occurs at the IR energy (i.e. wavelength) specific to a target gas, meaning highselectivity to a specific gas. This is the most distinctive feature of NDIR gas sensors. Another feature is that exposure to high concentration of target gas for a prolonged time would not result in irreversible sensitivity drift in principle.",
+      "2":"Able to detect CO, CO2, CH4, O2 and other type of Gas"
+    }
+  },
   "6":"Automobile night vision system",
   "7":"Camera Module",
   "8":"Fingerprint Module",
-  "9":"Wafer Level Vacuum Packaging",
-  "10":"Low Temperature Vacuum Packaging"
+  "9":
+  {
+    "name":"Wafer Level Vacuum Packaging",
+    "intro":{
+      "0":"WLVP Patented Assembly Technology used on high end semiconductor/IC product (MEMS)",
+      "1":"There are very limited company in China able to handle WLVP Patented Assembly Technology",
+      "2":"Our team mastered the WLBP Patented Assembly Technology"
+    }
+  },
+  "10":
+  {
+    "name":"Low Temperature Vacuum Packaging",
+    "intro":{
+      "0":"Low Temperature Vacuum Packaging used on high end semiconductor/IC product eg Defense / Aerospace / Space",
+      "1":"We had develop Low Temperature Vacuum Packaging for Microbolometer",
+      "2":"Microbolometer production stated"
+    }
+  }
 },
 "application":{
   "0":"Microbolometer (VOx)",

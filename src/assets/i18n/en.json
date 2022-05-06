@@ -1,8 +1,36 @@
 {
+  "nav":{
+    "intro":"Welcome to AZT Semi",
+    "0":"Product & Services",
+    "1":"Application",
+    "2":"News & Event",
+    "3":"About Us",
+    "4":"Contact Us"
+  },
   "company": {
 "profile":{
 "name": "Jiangxi Avanzato Semiconductor Co. Ltd.",
 "intro":"Jiangxi Avanzato Semiconductor Co. Ltd. incorporated on November 2020, located in Yingtan (Guixi)Copper Circular Economy Industrial Park. Core business are advanced semiconductor design, production,packaging and testing. Product line consist of various industry such as Mid/High end electronic device,automotive, aviation and medical .Our client from American, Europe, Asia, Japan and other.After years of research and development, our technical team mastered the process of AdvancedSemiconductor Assembly and Test. Mass production had been start. The Advanced SemiconductorAssembly and Test process able to bring the company to next horizon. "
+},
+"currentStatus":{
+  "name":"Current Status",
+  "0":"It is a key scientific and technological development project of Yingtan City",
+  "1":"With a base of 30 acres, a high tech factory building of 20,000 square meters is under construction Expect completion on 2022 Q2, mass production will start on 2022 Q4)"
+},
+"RD":{
+  "name":"R&D Center",
+  "0":"Our core team member consist of Ph. D and Master",
+  "1":"California (USA) IC Design & Process Development",
+  "2":"Canada Wafer Process and Packaging Technology Development"
+},
+"client":{
+  "name":"Current Client",
+  "0":"French",
+  "1":"USA",
+  "2":"Germany",
+  "3":"Canada",
+  "4":"Japan",
+  "5":"Singapore"
 },
 "productServices":{
   "0":"MEMS Sensor",
